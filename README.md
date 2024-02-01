@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrinathraj
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning computer science 
+- 🌱 I’m currently pursuing computer science 
   
 <!---
 Shrinathraj/Shrinathraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
